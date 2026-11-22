@@ -38,4 +38,4 @@ PortalBridge requests only the minimum permissions required under Manifest V3:
 ## 5. Contact & Inquiries
 If you have questions regarding this privacy disclosure, please contact:
 * **Repository:** [https://github.com/sjinsuretech/portalbridge-extension-](https://github.com/sjinsuretech/portalbridge-extension-)
-* **Email:** support@portalbridge.internal
+* **Email:** sjinsuretech@gmail.com
